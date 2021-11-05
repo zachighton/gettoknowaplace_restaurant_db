@@ -20,7 +20,7 @@ We used LucidChart to create the schema. This tool allowed us to easily design, 
 
 ## Outcome
 
-![ERD Project gettoknowaplace - Página 1](https://user-images.githubusercontent.com/89530964/140490154-41bdcc68-7df7-4ef2-8a9c-d8d75105b91a.jpeg)
+<img width="600" alt="Screenshot 2021-11-05 at 10 38 30" src="https://user-images.githubusercontent.com/89530964/140490278-b209ff19-b8e0-4dc0-af64-43ec91c97d3c.png">
 
 
 ## Further Steps
