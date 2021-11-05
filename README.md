@@ -20,7 +20,7 @@ We used LucidChart to create the schema. This tool allowed us to easily design, 
 
 ## Outcome
 
-<img width="921" alt="Screenshot 2021-11-05 at 10 36 19" src="https://user-images.githubusercontent.com/89530964/140489943-ca29e821-111f-4c7e-ad71-cd3356ac162e.png">
+<img width="600" alt="Screenshot 2021-11-05 at 10 36 19" src="https://user-images.githubusercontent.com/89530964/140489943-ca29e821-111f-4c7e-ad71-cd3356ac162e.png">
 
 
 ## Further Steps
