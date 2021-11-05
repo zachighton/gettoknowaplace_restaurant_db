@@ -4,16 +4,16 @@
 
 Gettoknowaplace offers personalised recommendations to newcomers in big cities, based on paid for research topics.
 
-The brief was to create an entity relationship diagram for a database of restaurants in Barcelona. Our clients want indivualised information regarding the restaurants. We had the following questions to answer:
+The brief was to create an entity relationship diagram for a database of restaurants in Barcelona. We had the following questions to answer:
 
-1. which parts of the city have the most restaurants per sq km?
-2. where can a vegan burger restaurant be found, with an opening time filter... eg. customer wants to visit on thursday at 6pm?
-3. how many specified cuisine (eg Vietnamese) restaurants are there in the city?
-4. U: which restaurants are the best for big groups/parties?
+1. Which parts of the city have the most restaurants per sq km?
+2. Where can a vegan burger restaurant be found, with an opening time filter... eg. customer wants to visit on thursday at 6pm?
+3. How many specified cuisine (eg Vietnamese) restaurants are there in the city?
+4. Which restaurants are the best for big groups/parties?
 
 ## ERD Structure
 
-In order to be able to answer our clients questions regarding restaurants in Barcelona, we have structured this database so that it can be easily queried for a variety of topics. Each table is linked to the main restaurant table and we have added additional links between other useful tables, such as location and cuisine.
+In order to be able to answer our clients questions regarding restaurants in Barcelona, we have structured the database so that it can be easily queried for a variety of topics. Each table is linked to the main restaurant table and we have added additional links between other useful tables, such as location and cuisine.
 
 The tables include information about primary and foreign keys as well as data types for each field.
 
