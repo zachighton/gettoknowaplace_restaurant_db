@@ -23,6 +23,12 @@ We started by sketching potential relationships between known entities to start 
 
 We used LucidChart to create the schema. This tool allowed us to easily design, connect and make changes to the tables and to work collaborativley on the project making simultaneous edits.
 
+#### Challenges
+
+- Selecting relevant tables to include to be able to properly answer queries.
+- Identifying the best links to make between tables along with the cardinality.
+- Choosing how to deal with time data (opening and closing times, waiting times) and how granular to be. 
+
 ## Outcome
 
 <img width="600" alt="Screenshot 2021-11-05 at 10 38 30" src="https://user-images.githubusercontent.com/89530964/140490278-b209ff19-b8e0-4dc0-af64-43ec91c97d3c.png">
