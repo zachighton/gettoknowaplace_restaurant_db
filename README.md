@@ -15,7 +15,7 @@ The brief was to create an entity relationship diagram for a database of restaur
 
 In order to be able to answer our clients questions regarding restaurants in Barcelona, we have structured the database so that it can be easily queried for a variety of topics. Each table is linked to the main restaurant table and we have added additional links between other useful tables, such as location and cuisine.
 
-The tables include information about primary and foreign keys as well as data types for each field.
+The tables include information about primary and foreign keys as well as data types for each field. Each entity relationship indicates cardinality such as zero-to-many and one-to-many relationships.
 
 ## Process
 
