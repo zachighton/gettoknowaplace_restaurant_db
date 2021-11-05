@@ -2,9 +2,9 @@
 
 ## Introduction
 
-This is a entity relationship diagram for a restaurant database for restaurants around Barcelona.
+Gettoknowaplace offers personalised recommendations to newcomers in big cities, based on paid for research topics.
 
-### Questions to answer:
+The brief was to create an entity relationship diagram for a database of restaurants in Barcelona. Our clients want indivualised information regarding the restaurants. We had the following questions to answer:
 
 1. which parts of the city have the most restaurants per sq km?
 2. where can a vegan burger restaurant be found, with an opening time filter... eg. customer wants to visit on thursday at 6pm?
