@@ -2,9 +2,14 @@
 
 ## Introduction
 
-Our repository for the Gettoknowaplace project.
-
 This is a entity relationship diagram for a restaurant database for restaurants around Barcelona.
+
+### Questions to answer:
+
+1. which parts of the city have the most restaurants per sq km?
+2. where can a vegan burger restaurant be found, with an opening time filter... eg. customer wants to visit on thursday at 6pm?
+3. how many specified cuisine (eg Vietnamese) restaurants are there in the city?
+4. U: which restaurants are the best for big groups/parties?
 
 ## ERD Structure
 
@@ -21,7 +26,6 @@ We used LucidChart to create the schema. This tool allowed us to easily design, 
 ## Outcome
 
 <img width="600" alt="Screenshot 2021-11-05 at 10 38 30" src="https://user-images.githubusercontent.com/89530964/140490278-b209ff19-b8e0-4dc0-af64-43ec91c97d3c.png">
-
 
 ## Further Steps
 
